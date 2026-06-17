@@ -1,1 +1,1 @@
-# pickscout
+# PickScout
